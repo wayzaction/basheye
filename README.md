@@ -1,5 +1,5 @@
-# basheye
-BashEye: Lightweight Bash-written system inspector without annoying dependencies 
+# BashEye
+Lightweight Bash-written system inspector without annoying dependencies 
 
 (Still in progress)
 
